@@ -139,6 +139,10 @@ h1 {
   padding: 1rem;
 }
 
+h1 {
+  font-size: 2rem;
+}
+
 h2 {
   color: purple;
   font-size: 1rem;
