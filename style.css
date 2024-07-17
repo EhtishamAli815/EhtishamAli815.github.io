@@ -14,6 +14,7 @@
   flex-wrap: wrap;
   flex-direction: column;
   justify-content: flex-start;
+
   padding: 1rem;
 }
 
@@ -162,6 +163,5 @@ span {
   width: 5rem;
   height: 0.2rem;
   display: block;
+  display: ;
 }
-
-
