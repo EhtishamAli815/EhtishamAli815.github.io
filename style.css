@@ -123,7 +123,7 @@ h1 {
 .module > h1 {
   background-color: purple;
   color: whitesmoke;
-  font-size: 3rem;
+  font-size: 2rem;
   padding: 0.5rem 3rem;
   width: fit-content;
   display: block;
@@ -170,6 +170,3 @@ span {
 }
 
 
-h1 {
-  font-size: 0.1rem;
-}
