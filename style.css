@@ -125,7 +125,7 @@ h1 {
   padding: 0.5rem 2rem;
   width: fit-content;
   display: block;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .module {
