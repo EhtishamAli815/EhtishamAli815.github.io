@@ -163,3 +163,10 @@ span {
   height: 0.2rem;
   display: block;
 }
+
+@media (max-width: 768px) {
+  .agenda {
+    height: auto;
+    overflow: scroll;
+  }
+}
