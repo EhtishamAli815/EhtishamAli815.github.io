@@ -123,8 +123,8 @@ h1 {
 .module > h1 {
   background-color: purple;
   color: whitesmoke;
-  font-size: 2em;
-  padding: 0.3rem 3rem;
+  font-size: 1.2rem;
+  padding: 0.3rem 2rem;
   width: fit-content;
   display: block;
 }
