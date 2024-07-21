@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  padding: 0;
+  padding: 0; 
   box-sizing: border-box;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   color: #222;
@@ -168,6 +168,12 @@ span {
 
 .iframe-container {
   overflow: hidden;
+  height: auto; 
+}
+
+iframe {
+  right: -17px; /* Adjust this value for cross-browser compatibility */
+  overflow-y: scroll;
 }
 
 @media screen and (max-width: 768px) {
