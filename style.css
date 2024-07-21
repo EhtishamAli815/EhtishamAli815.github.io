@@ -166,15 +166,6 @@ span {
   display: ;
 }
 
-.iframe-container {
-  overflow: hidden;
-  height: auto; 
-}
-
-iframe {
-  right: -17px; /* Adjust this value for cross-browser compatibility */
-  overflow-y: scroll;
-}
 
 @media screen and (max-width: 768px) {
     h2 {
