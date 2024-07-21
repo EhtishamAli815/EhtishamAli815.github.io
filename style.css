@@ -166,8 +166,12 @@ span {
   display: ;
 }
 
-@media (max-width: 1200px) {
-  h2 {
-    font-size: 1rem;
-  }
+.iframe-container {
+  overflow: hidden;
+}
+
+@media screen and (max-width: 768px) {
+    h2 {
+        font-size: 1rem;
+    }
 }
